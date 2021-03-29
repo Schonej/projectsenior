@@ -33,6 +33,13 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
+.binge {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin: 5%;
+  text-align: center;
+}
+
 .logo img {
   height: 70px;
   margin: .5em;
@@ -358,7 +365,7 @@ li.fade {
 }
 
 #movies-list2 {
-  margin-top: 10%;
+  margin-top: 20%;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
