@@ -978,8 +978,8 @@ form.example::after {
     border-bottom: 4px solid black;
   }
   .logo img {
-    margin-top: 2%;
-    height: 100px;
+    margin-top: 5%;
+    height: 80px;
   }
   .colorful {
     width: 80%;
