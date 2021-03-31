@@ -764,12 +764,11 @@ form.example::after {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 12vh;
+    height: 8vh;
     width: 100%;
   }
   .logo img {
     margin-top: 5%;
-    height: 80px;
   }
   .colorful {
     width: 80%;
@@ -889,7 +888,7 @@ form.example::after {
   .nav-links li a {
     color: #1A1A1D;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Roboto', sans-serif;
   }
   .hamburger {
@@ -904,7 +903,7 @@ form.example::after {
             align-items: center;
     margin-left: auto;
     color: #F3F3F3;
-    height: 12vh;
+    height: 8vh;
     width: 80%;
     text-decoration: none;
     background: white;
@@ -966,7 +965,7 @@ form.example::after {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 17vh;
+    height: 12vh;
     padding-right: 5%;
     width: 100%;
   }
@@ -980,7 +979,7 @@ form.example::after {
   }
   .logo img {
     margin-top: 2%;
-    height: 120px;
+    height: 100px;
   }
   .colorful {
     width: 80%;
@@ -1032,7 +1031,7 @@ form.example::after {
   .nav-links li a {
     color: #1A1A1D;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'Roboto', sans-serif;
   }
   .hamburger {
@@ -1047,7 +1046,7 @@ form.example::after {
             align-items: center;
     margin-left: auto;
     color: #F3F3F3;
-    height: 17vh;
+    height: 12vh;
     width: 80%;
     text-decoration: none;
     background: white;

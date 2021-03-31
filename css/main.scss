@@ -607,12 +607,11 @@ form.example::after {
  @media only screen and (min-width: 700px){
   nav{
     display: flex;
-    height: 12vh;
+    height: 8vh;
     width: 100%;
   }
   .logo img{
     margin-top: 5%;
-    height: 80px;
   }
   .colorful{
     width: 80%;
@@ -743,7 +742,7 @@ img.avatar {
 .nav-links li a {
     color: #1A1A1D;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Roboto', sans-serif;
   }
   
@@ -756,7 +755,7 @@ img.avatar {
     align-items: center;
     margin-left: auto;
     color: #F3F3F3;
-    height: 12vh;
+    height: 8vh;
     width: 80%;
     text-decoration: none;
     background: white;
@@ -818,7 +817,7 @@ img.avatar {
   @media only screen and (min-width: 1000px) {
   nav{
     display: flex;
-    height: 17vh;
+    height: 12vh;
     padding-right: 5%;
     width: 100%;
     li:hover{
@@ -832,7 +831,7 @@ img.avatar {
   }
   .logo img{
     margin-top: 2%;
-    height: 120px;
+    height: 100px;
   }
   .colorful{
     width: 80%;
@@ -888,7 +887,7 @@ img.avatar {
   .nav-links li a {
     color: #1A1A1D;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 22px;
     font-family: 'Roboto', sans-serif;
   }
   
@@ -901,7 +900,7 @@ img.avatar {
     align-items: center;
     margin-left: auto;
     color: #F3F3F3;
-    height: 17vh;
+    height: 12vh;
     width: 80%;
     text-decoration: none;
     background: white;
